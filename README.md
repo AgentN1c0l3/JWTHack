@@ -1,6 +1,7 @@
 # JWTHack
 
 # JWT Handler Script
+![image](https://github.com/user-attachments/assets/3f59ea83-868a-4f87-83fa-0e7be064f237)
 
 ## Overview
 
@@ -9,7 +10,7 @@ This script is a simple utility for handling JSON Web Tokens (JWTs). It provides
 2. Validate JWT with a secret or public key.
 3. Make an HTTP request with the JWT as the Authorization header.
 
-The script features a colorful ASCII art menu and handles errors gracefully.
+
 
 ## Features
 
