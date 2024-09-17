@@ -1,6 +1,5 @@
 # JWTHack
 
-# JWT Handler Script
 ![image](https://github.com/user-attachments/assets/3f59ea83-868a-4f87-83fa-0e7be064f237)
 
 ## Overview
